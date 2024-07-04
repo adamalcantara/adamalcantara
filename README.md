@@ -15,7 +15,7 @@
 
 ### About Me:
 
-I am a front-end developer.
+I am a full-stack developer.
 
 - I have a passion for user experience and user interface
 - I am a graduate of Wilmington University where I earned a Bachelor's of Science in Computer Science
