@@ -15,7 +15,7 @@
 
 ### About Me:
 
-I am a full-stack developer.
+I am a software engineer.
 
 - I have a passion for user experience and user interface
 - I am a graduate of Wilmington University where I earned a Bachelor's of Science in Computer Science
